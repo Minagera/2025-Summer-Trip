@@ -1,307 +1,287 @@
 # Revive & Drive Road Trip Itinerary – Starting in Seattle, WA
 
-This itinerary is for a memorable road trip that lets you and your son bond over classic car restoration and scenic exploration. You'll fly one-way from Huntsville using Delta SkyMiles to Seattle, then begin an extended road journey home in your pre-purchased project vehicle. (Note: The drive from Seattle to Huntsville is longer, so this itinerary covers about 11 days. You can customize stops or shorten segments depending on your available time.)
+This father-son road trip combines automotive adventure with stunning natural scenery. You'll fly one-way from Huntsville using Delta SkyMiles, pick up a pre-purchased project car in Seattle, and experience the challenge and joy of reviving it while driving back home through some of America's most spectacular landscapes.
 
 **Trip Duration:** ~11 Days  
 **Estimated Driving Distance:** ~2,400–2,600 miles  
-**Vehicle Note:** Your pre-purchased vintage car project from the late '70s to early '90s will be waiting for your arrival. Use 4WD only for designated off-road or scenic sections.
+**Vehicle Note:** Your pre-purchased vintage car project (late '70s to early '90s) awaits your arrival in Seattle.
+
+## Pre-Trip Planning
+
+### Before You Go
+- **Vehicle Research:** Join model-specific forums to learn about common issues
+- **Route Planning:** Download offline maps and mark parts stores along your route
+- **Tool Strategy:** Research which specialized tools you'll need to bring vs. buy
+- **Documentation Prep:** Plan GoPro mounting locations, storage for footage
+- **Packing Strategy:** Pack light on clothing to save room for tools and parts
 
 ---
 
-## Day 1: Arrival in Seattle
+## Day 1: Arrival & Vehicle Acquisition
 
-- **Flight:** Arrive in Seattle, WA (HSV → SEA using SkyMiles)
-- **Vehicle Pickup:**
-  - Meet with the seller/dealer to take possession of your pre-purchased project vehicle
-  - **Detailed Discussion:** Plan for an extended meeting (2+ hours) with the previous owner to:
-    - Go through all known mechanical issues systematically
-    - Test drive together so they can point out any quirks or concerns
-    - Review maintenance records and recent work completed
-    - Get recommendations on which tools and parts to have on hand
-  - Complete any remaining paperwork and get familiar with the vehicle's features
-- **Evening:**  
-  - Check into a centrally located hotel.
-  - Explore the waterfront area, visit **Pike Place Market**, or take a brief walk near the **Space Needle**.
-- **Dinner:** Enjoy a local meal to kick off the trip.
-- **Planning:** Create a list of needed tools and parts based on conversation with previous owner
+### Morning: Arrive in Seattle
+- Land at Seattle-Tacoma International Airport (SEA)
+- Grab coffee while waiting for seller/previous owner
+- Take rideshare to the meeting location
 
----
+### Mid-Day: The Handover
+- **Meet with Previous Owner (3-4 hours):**
+  - Complete thorough hands-on inspection of the vehicle
+  - Document all known issues (take video and photos)
+  - Test drive together to learn quirks and warning signs
+  - Review all maintenance records and recent repairs
+  - Create prioritized list of needed parts/tools
+  - Complete paperwork and payment finalization
 
-## Day 2: Seattle – Local Exploration & Vehicle Preparation
+### Afternoon: Initial Supplies Run
+- **Harbor Freight Visit** (Tukwila or Everett location):
+  - Vehicle-specific tool kit based on car's needs
+  - Socket sets, wrenches, pliers, screwdrivers
+  - Multimeter and diagnostic tools
+  - Emergency supplies: zip ties, duct tape, JB Weld
+  - Work gloves, headlamp for evening repairs
+  
+- **Local Auto Parts Store:**
+  - All necessary fluids (oil, coolant, brake, transmission)
+  - Common replacement parts (belts, hoses, filters)
+  - Model-specific parts for known issues
+  - Basic electrical supplies (fuses, connectors)
 
-- **Morning:**  
-  - Visit **Harbor Freight** (located in Tukwila or Everett) to purchase:
-    - Vehicle-specific tool kit for your project car
-    - Emergency repair supplies
-    - Basic diagnostic equipment if needed
-  - Visit a local auto parts store for any immediate supplies or parts you might need for the journey
-  - Optional: Quick vehicle check at a trusted local mechanic (pre-arranged)
-- **Afternoon:**  
-  - Tour major Seattle attractions (e.g., the **Museum of Pop Culture** or the **Chihuly Garden and Glass**).
-  - Consider a scenic drive around the city to test your project car's performance
-- **Evening:**  
-  - Pack and prepare for tomorrow's departure
-  - **Research:** Map out major auto parts chains (AutoZone, O'Reilly, NAPA) along your entire route for quick reference
-  - Overnight in Seattle.
+### Evening: First Mechanical Session
+- Use hotel parking area for initial assessment:
+  - Change oil and check all fluid levels
+  - Test electrical systems thoroughly
+  - Inspect belts, hoses, and key components
+  - Address any immediate concerns
+  - Make list of any additional parts needed
 
----
-
-## Day 3: Seattle to Spokane
-
-- **Departure:**  
-  - Begin your drive east from Seattle to Spokane (~4–4.5 hours).
-- **Mid-Route:**  
-  - Enjoy the changing landscapes of the Pacific Northwest.
-  - **Parts Access:** Note locations of auto parts stores in Ellensburg and Moses Lake as backup
-- **In Spokane:**  
-  - Visit **Riverfront Park** and enjoy a leisurely lunch.
-  - Take in local scenery or explore a small local museum.
-- **Evening:**  
-  - Check into a budget motel or hotel.
-  - Perform a quick check on the vehicle after the first long stretch of driving
+### Overnight: Seattle
+- Check into centrally located hotel
+- **Evening Activity:** Take sunset drive along Alki Beach for skyline views
+- **Documentation:** Begin your video series with "the purchase" episode
 
 ---
 
-## Day 4: Spokane to Missoula, Montana
+## Day 2: Seattle Exploration & Final Prep
 
-- **Morning:**  
-  - Depart Spokane for Missoula (~3.5–4 hours drive).
-- **In Missoula:**  
-  - Explore the downtown area and local coffee shops.
-  - Consider a scenic drive along the Bitterroot Valley.
-- **Overnight:**  
-  - Stay in a local motel or guesthouse.
+### Morning: Tacoma Automotive Experience
+- Drive to Tacoma to visit **LeMay - America's Car Museum**
+- Tour one of America's largest auto collections
+- **Shopping Stop:** Visit Griot's Garage retail store for high-quality car care products
 
----
+### Afternoon: Final Car Preparation
+- **Last Supply Run:**
+  - Address any remaining parts needs identified during first day
+  - Purchase additional tools or supplies based on museum inspiration
+  - Get any Seattle-specific souvenirs for the car
+  
+- **DIY Work Session:**
+  - Complete any remaining maintenance tasks
+  - Organize tools and parts in the car for easy access
+  - Create emergency repair kit in accessible location
 
-## Day 5: Missoula to Bozeman
-
-- **Morning Departure:**  
-  - Drive from Missoula to Bozeman, MT (~3 hours).
-- **In Bozeman:**  
-  - Explore local attractions such as the **Museum of the Rockies**.
-  - Option for a short hike in nearby areas if time and weather permit.
-- **Evening:**  
-  - Overnight in Bozeman at a modest hotel.
-
----
-
-## Day 6: Bozeman – Yellowstone Gateway
-
-- **Plan:**  
-  - Use Bozeman as a base to explore the outskirts of Yellowstone National Park.
-  - Consider a day trip to experience geysers, hot springs, and dramatic landscapes. (Note: If your project car is not suited for rough park roads, keep to the main scenic drives.)
-- **Evening:**  
-  - Return to Bozeman and rest.
+### Evening: Seattle Experience
+- **Driving Test:** Take car on different Seattle terrains (hills of Queen Anne, waterfront straights)
+- **Photo Opportunity:** Capture car with Space Needle background at Kerry Park
+- **Planning:** Map out DIY-friendly repair locations along your planned route
+- **Documentation:** Film detailed vehicle walk-around and "beginning state" documentation
 
 ---
 
-## Day 7: Bozeman to Rapid City, South Dakota
+## Day 3: Seattle to Spokane via North Cascades
 
-- **Long Drive:**  
-  - Depart early for Rapid City (~7–8 hours drive).  
-- **Along the Way:**  
-  - Enjoy scenic stretches through Montana and Wyoming.
-- **In Rapid City:**  
-  - Depending on timing, visit Mount Rushmore or the Crazy Horse Memorial in the evening.
-- **Overnight:**  
-  - Stay in a budget hotel in Rapid City.
+### Morning: Scenic Departure
+- **YouTube Moment:** Film morning coffee and first start of the journey
+- Take SR-20 (North Cascades Highway) instead of I-90 for a spectacular mountain drive
+- **Photo Stops:** Plan specific pulls at Diablo Lake Overlook and Washington Pass
 
----
+### En Route Features
+- **Landscape Contrast:** Capture the car against changing environments from lush forests to desert
+- **Engineering Marvel:** Stop at Grand Coulee Dam to appreciate American engineering prowess
+- **Parts Access Note:** Document parts stores in small towns along the way
 
-## Day 8: Rapid City to Oklahoma City
-
-- **Morning:**  
-  - Begin the drive from Rapid City to Oklahoma City (~8 hours drive).  
-- **Mid-Route:**  
-  - Consider a quick stop in a town along the way for refreshments and stretching.
-- **Evening:**  
-  - Arrive in Oklahoma City, check into affordable accommodations.
-  - Enjoy dinner at a local diner.
+### Evening in Spokane
+- Check into budget-friendly accommodations
+- **Evening Addition:** Drive through Riverfront Park with illuminated pavilion as backdrop
+- **Maintenance Check:** Perform vehicle inspection after first full day of driving
+- **Documentation:** Record segment discussing how the car handled mountain grades
 
 ---
 
-## Day 9: Oklahoma City to Nashville, TN
+## Day 4: Spokane to Missoula via Northern Route
 
-- **Morning:**  
-  - Drive from Oklahoma City to Nashville (~8 hours).
-- **In Nashville:**  
-  - Explore local music culture or simply relax after a long day on the road.
-- **Overnight:**  
-  - Stay in a centrally located budget hotel.
+### Morning Activities
+- **Car Culture:** Visit Historic Davenport Hotel's vintage car display if available
+- **Technical Check:** Address any issues that appeared during yesterday's mountain driving
 
----
+### Scenic Route to Missoula
+- Take northern route via Sandpoint, ID and around Lake Pend Oreille
+- **Roadside Americana:** Stop at the 50,000 Silver Dollar Bar in Haugan, MT
+- **Photo Opportunity:** Capture vehicle against the first of Montana's "Big Sky" landscapes
 
-## Day 10: Nashville – Quality Time
-
-- **Day in Nashville:**  
-  - Spend a relaxed day in Nashville to further bond and reflect on the journey.
-  - Options include a visit to a local car museum or the country music halls.
-- **Evening:**  
-  - Enjoy dinner and local live music.
-- **Overnight:**  
-  - Stay one more night in Nashville.
+### Evening in Missoula
+- Check into local motel or guesthouse
+- **Scenic Drive:** Head up to the "M" trailhead for panoramic views of Missoula Valley
+- **Car Culture:** Research local gearheads who might want to meet up
+- **Documentation:** Record driving impressions of how the car is evolving
 
 ---
 
-## Day 11: Nashville to Huntsville, AL
+## Day 5: Missoula to Bozeman via Mining Towns
 
-- **Final Stretch:**  
-  - Make the short drive (1.5–2 hours) back to Huntsville.
-- **Wrap-up:**  
-  - Arrive home safely and celebrate a successful, bonding road trip.
+### Morning Departure
+- **Performance Testing:** Find empty stretch to test vehicle acceleration and braking
+- Take scenic route through Philipsburg (charming mining town)
 
----
+### Day Exploration
+- **Ghost Town Visit:** Explore the nearby Ghost Town of Granite
+- **Natural Wonder:** Stop at Lewis & Clark Caverns State Park
+- **Car Photography:** Find scenic ranch with split-rail fence for perfect Montana backdrop
 
-## Additional Tips for the Seattle Route
-
-- **Driving Considerations:**  
-  - Since the Seattle route covers a longer distance, plan for frequent breaks.
-  - If your vehicle performs well in 4WD, consider a short off-the-beaten-path detour (e.g., small forest roads near the Cascades) for additional adventure.
-- **Local Resources:**  
-  - Use local tourism websites for the Pacific Northwest and Montana areas to identify current events or special attractions.
-- **Documentation:**  
-  - Capture road scenes and moments with your son to create lasting memories of the project and journey.
+### Evening in Bozeman
+- Check into modest hotel
+- **Local Connection:** Try to arrange meetup with local car club members
+- **Maintenance Session:** Address any issues that developed during the day's drive
+- **Documentation:** Capture "mid-trip" assessment of the vehicle's condition
 
 ---
 
-## Creating Lasting Memories
+## Day 6: Bozeman & Yellowstone Expedition
 
-### Vehicle Connection Activities
-- **Progressive Customization:** Pick up small, meaningful accessories for the car in each major city (Seattle, Spokane, Missoula, etc.) to gradually personalize it
-- **"Car Cinema" Nights:** Once checked into hotels, watch classic car movies or documentaries related to your project car's make/model on a tablet or laptop
-- **Engine Bay Education:** Create a "systems mastery" challenge where your son learns one complete vehicle system (cooling, electrical, fuel) during the trip
+### Morning: Paradise Valley Drive
+- Take US-89 south through Paradise Valley for spectacular mountain scenery
+- **Photo Strategy:** Capture dramatic mountains with car in foreground
 
-### Pacific Northwest Special Experiences
-- **Seattle:** Visit the **LeMay - America's Car Museum** in nearby Tacoma to see one of the largest auto collections in America
-- **Cascade Mountains:** Find a scenic Forest Service road for a short, gentle off-pavement adventure (if vehicle is capable)
-- **Montana:** Photograph your project car against the dramatic "Big Sky" landscapes
-- **Yellowstone Area:** Create a "wildlife bingo" game where you track animals spotted from the car
-- **Rapid City:** Visit Sturgis (if timing works), famous for motorcycle rallies, to expose your son to different vehicle cultures
+### Yellowstone National Park
+- Drive to Mammoth Hot Springs and the Grand Loop Road
+- **Filming Plan:** Create contrast between your mechanical project and natural geothermal features
+- **Vehicle Testing:** Document how the car handles park roads and elevation changes
 
-### Documentation & Memory Preservation
-- **License Plate Spotting:** Keep a running tally of state license plates spotted, with a special reward when you hit 45+ states
-- **Project Car Progress Photos:** Take identical framed photos of the car at the beginning, middle and end of the journey to show how it evolves
-- **"Milestone Markers":** Celebrate each 500 miles completed with a small ceremony and commemorative photo
-- **Local Radio Roulette:** In each new radio market, scan for and record snippets of unique local stations
-
-### Mechanical Bonding Opportunities
-- **Roadside Maintenance Clinics:** Pre-plan 2-3 simple maintenance tasks (air filter change, spark plug replacement) to do together at scenic stops
-- **Problem-Solving Partnership:** If an issue arises, establish a process where you talk through the diagnosis together before fixing it
-- **Tools & Skills Passport:** Create a checklist of tools used and skills learned that your son can get "stamped" (checked off) as he masters them
-
-### Regional Special Activities
-- **Bozeman:** Visit the Museum of the Rockies and discuss the engineering challenges of building vehicles versus dinosaur biomechanics
-- **Wyoming/South Dakota:** Visit a ghost town or abandoned stretch of historic highway to photograph your "new" classic car against "old" America
-- **Nashville:** Record a short song about your journey in one of the many public recording booths available in Music City
-- **Final Day:** Before arriving home, stop at a car wash to clean up your project car, then take "before/after" photos comparing to your departure day pictures
+### Evening Return to Bozeman
+- **Western Experience:** Attend local rodeo if available
+- **Technical Session:** Check vehicle after the demanding park roads
+- **Documentation:** Create segment comparing natural power (geysers) to mechanical power (engine)
 
 ---
 
-## Creating Lasting Memories - For Experienced Car Enthusiasts
+## Day 7: Bozeman to Rapid City via Historic Sites
 
-### Automotive Adventures for Skilled Wrenchers
-- **Local Speed Shops:** Research performance shops in major cities along the route (Seattle, Bozeman, Rapid City) to visit and talk shop with local experts
-- **"Rescue Mission" Challenge:** Keep an eye out for broken-down classics along your route - stop to offer assistance using your combined skills
-- **Hidden Gem Car Collections:** Research private or lesser-known car collections that might offer tours for fellow enthusiasts by appointment
-- **Track Day Opportunity:** Check if any small local tracks along your route offer "test and tune" days where you could safely put your project car through its paces
+### Early Morning Departure
+- **Sunrise Photos:** Capture early light on the car at scenic outlook east of Bozeman
+- **YouTube Moment:** Film "will it start?" cold morning sequence
 
-### Epic Memory Creation
-- **Mechanical Soundtrack:** Record the unique sounds of your project car at different points (cold start, highway cruise, mountain climb) to preserve its "voice"
-- **Expert Critiques:** In each major stop, find one knowledgeable car person to give their assessment of your project - collect these perspectives
-- **Father-Son Build Debate:** Record friendly debates about future modification choices (carb vs. EFI, restoration vs. restomod) to capture your dynamic
-- **Car Culture Immersion:** Find regional automotive differences in each area you visit - note how car culture changes across the country
+### En Route Experiences
+- **Historical Site:** Visit Little Bighorn Battlefield National Monument
+- **Natural Wonder:** Plan to arrive at Devil's Tower by late afternoon for best lighting
+- **Evening Timing:** Schedule Mount Rushmore visit during the evening lighting ceremony
 
-### Advanced Photo Opportunities
-- **Technical Photos Series:** Create artistic close-up shots of interesting mechanical components as they work or change throughout the journey
-- **"Past Meets Present":** Find historical photos of your car model in iconic locations, then recreate those shots with your project car
-- **Daily "State of the Build" Photos:** Take consistent daily photos from the same angles to create a time-lapse effect of how the car evolves
-- **Engineering Beauty Shots:** Capture the sunset reflecting off chrome parts or the silhouette of the engine bay with scenic backgrounds
-
-### Car Culture Experiences
-- **Specialty Tool Shopping:** Visit independent tool shops along the route to find unique or vintage tools you can't get at home
-- **Local Automotive Traditions:** Research and participate in local car culture traditions in different regions (Seattle coffee & cars, Montana cruise nights)
-- **"Shop Talk" Sessions:** Find local mechanics willing to share regional-specific knowledge about modifications for your climate vs. theirs
-- **Barn Find Stories:** Connect with locals to hear stories about legendary barn finds or restoration projects in the areas you're passing through
-
-### Creative Documentation
-- **Mechanical Journal:** Instead of a basic logbook, create technical sketches and engineering notes about modifications you're considering
-- **"If This Car Could Talk":** Write creative short stories from the car's perspective about its journey and "feelings" about its revival
-- **Time Capsule Creation:** Collect small items from each stop (spark plug from Seattle, air filter from Montana) to create a shadow box display at home
-- **Build Thread Creation:** Take photos specifically to create an epic build thread on forums when you return, documenting the journey and modifications
-
-### Enhanced Technical Experiences
-- **Regional Parts Adaptation:** Note how similar cars in different regions are modified to handle local conditions (Seattle rain vs. Montana winters)
-- **Performance Evolution Log:** Keep detailed notes on how the car's performance changes as you cross different elevations and climates
-- **Fabrication Challenges:** Identify one small component you could fabricate together at a maker space or welding shop in a major city
-- **Engine Tuning Sessions:** Schedule time to make minor carburetor or timing adjustments as you encounter different altitudes and temperatures
-
-### These advanced enthusiast experiences will help create deeper memories for two experienced mechanics while celebrating your shared skills and passion for automotive craftsmanship.
+### Overnight in Rapid City
+- **Car Culture:** Visit Hot Rod Hall of Fame if time permits
+- **Maintenance Check:** Address any concerns before tomorrow's long drive
+- **Documentation:** Film segment connecting American history to automotive history
 
 ---
 
-## Video Documentation & YouTube Content Plan
+## Day 8: Rapid City to Oklahoma City via Badlands
 
-### Video Production Strategy
-- **Filming Setup:**
-  - GoPro dashboard timelapse for all mountain passes and scenic drives
-  - Phone gimbal for smoother walking tours around the vehicle
-  - Consider drone shots at remote scenic points (if you have one)
-  - "Pillar-to-Post" shots: Film complete walkarounds at the same locations at beginning, middle, and end of trip
-- **Storage Management:**
-  - Bring extra SD cards and portable hard drive to offload footage daily
-  - Create organized folder structure by date and state
-  - Back up critical footage to cloud storage when you have good WiFi
+### Morning Extension
+- **Must-See Detour:** Take the Badlands National Park loop drive (worth the extra 2 hours)
+- **Roadside Americana:** Stop at Wall Drug in Wall, SD
 
-### YouTube Episodic Structure
+### Crossing the Heartland
+- Drive through the scenic Nebraska Sandhills rather than staying on the interstate
+- **Pioneer Auto Show** in Murdo, South Dakota (if timing works)
+- **Car Performance:** Document how the vehicle runs after a week on the road
+
+### Evening in Oklahoma City
+- Check into affordable accommodations
+- **Maintenance Session:** More thorough check after the long drive day
+- **Planning:** Prepare for next day's push to Nashville
+
+---
+
+## Day 9: Oklahoma City to Nashville via Memphis
+
+### Morning Start
+- **Local History:** Visit National Cowboy & Western Heritage Museum before departing
+- **Driving Strategy:** Take slightly northern route through the scenic Ozark Mountains
+
+### Breaking Up the Journey
+- **Memphis Detour:** Schedule 2-3 hour stop in Memphis
+- Visit Beale Street and grab authentic BBQ lunch
+- **YouTube Content:** Film driving commentary like Roadkill through scenic sections
+
+### Evening in Nashville
+- Check into centrally located budget hotel
+- **Evening Recovery:** Research Nashville Cars & Coffee or evening car meetups
+- **Mechanical Needs:** Address any pressing issues after the long drive
+
+---
+
+## Day 10: Nashville Exploration Day
+
+### Morning Car Culture
+- Visit Lane Motor Museum to see one of America's most unique car collections
+- **Cleanup Session:** Find self-service car wash to make your project look its best
+
+### Afternoon in Music City
+- Experience Nashville's music scene and cultural attractions
+- **Audio Memory:** Visit a tourist recording booth to create a song about your car journey
+- **Photo Session:** Capture car against Nashville's iconic music-themed backdrops
+
+### Evening Celebration
+- **Documentation:** Film "almost complete" walkthrough of the car's transformation
+- **Strategy Session:** Discuss final day's route and arrival plan
+- **Dinner:** Book at an automotive-themed restaurant for last night celebration
+
+---
+
+## Day 11: Nashville to Huntsville via Scenic Parkway
+
+### Morning Departure
+- **Final Checks:** Ensure everything is ready for the last leg home
+- **Route Choice:** Take Natchez Trace Parkway for a beautiful final drive
+- **Historical Stop:** Visit Jack Daniel's Distillery in Lynchburg
+
+### Homecoming to Huntsville
+- **Arrival Planning:** Coordinate with family/friends for welcome reception
+- **Final Documentation:** Plan specific location for "journey complete" photos and video
+- **Celebration:** Reflect on both the mechanical victories and memories created
+
+---
+
+## DIY Wrenching Locations Guide
+
+### Pacific Northwest Options
+- **Seattle Area:** Magnuson Park covered picnic areas
+- **Cascade Region:** Highway rest areas along SR-20 with pavilions
+- **Spokane:** Riverside State Park day-use areas
+
+### Montana & Wyoming Spots
+- **Missoula:** Fort Missoula Regional Park pavilions (concrete floors)
+- **Bozeman:** Gallatin County Regional Park covered spaces
+- **Yellowstone Area:** Gardiner Rodeo Grounds (outside park)
+
+### Emergency Workspace Solutions
+- Pack a lightweight 10'x10' pop-up canopy for impromptu repairs
+- Heavy-duty tarp for protecting surfaces during fluid changes
+- Strong magnetic LED work lights for evening repairs
+- Contact local car clubs through Facebook before arriving in major stops
+
+---
+
+## Video Production Strategy
+
+### Content Structure
 - **Series Title:** "Seattle to Sweet Home: A Father-Son Resurrection Road Trip"
-- **Episode Breakdown:**
-  - Ep 1: Seattle Pickup & Cascades Crossing
-  - Ep 2: Montana Big Sky Adventures
-  - Ep 3: Yellowstone Region & Black Hills
-  - Ep 4: The Long Haul Home
-- **Engaging Segments:**
-  - "Will It Make It?" segments at the start of each day
-  - "Roadside Engineering" for any repairs needed
-  - "Local Car Culture" interviews with enthusiasts you meet
-  - "Road Test Results" evaluating how the car handles different terrains
+- **Episodes:** 
+  1. The Purchase & Pacific Northwest
+  2. Montana Big Sky Adventures
+  3. Yellowstone & Black Hills
+  4. The Long Haul Home
 
-### Automotive YouTuber Inspiration & Connection
-- **ViceGripGarage Style Shots:**
-  - Recreate Derek's signature morning coffee and "let's see if she'll fire up" sequences
-  - Film similar wilderness backdrops in Montana and Wyoming
-- **Roadkill-Inspired Segments:**
-  - Document any hotel parking lot repairs in their style
-  - Film "road tests" on different terrain types and narrate the car's handling
-- **Emergency Outreach Plan:**
-  - Research repair shops recommended by car YouTubers along your route
-  - Create a simple "help sheet" with vehicle specs and your exact location to share if needed
-  - Tag automotive YouTubers with your location when posting from the road
-
-## Enhanced Destinations & Route Improvements
-
-### Pacific Northwest Additions
-- **Mount Rainier Scenic Loop:** Add a half-day detour from Seattle before heading east
-- **North Cascades Highway** (SR-20): Consider this more scenic alternative to I-90 for part of your Seattle-Spokane drive
-- **Dry Falls Scenic Overlook:** Dramatic stop between Seattle and Spokane
-
-### Montana Enhancements
-- **Lewis & Clark Caverns State Park:** Natural wonder between Missoula and Bozeman
-- **Beartooth Highway:** If your schedule allows, add this spectacular drive (considered one of America's best) near Yellowstone
-- **Ghost Towns:** Virginia City and Nevada City offer preserved mining towns perfect for classic car photos
-
-### Wyoming & South Dakota Improvements
-- **Devil's Tower National Monument:** Worth a detour between Yellowstone and Rapid City
-- **Badlands National Park:** Add a few hours to explore this otherworldly landscape near Rapid City
-- **Custer State Park Wildlife Loop:** Great for morning wildlife spotting and scenic driving near Rapid City
-
-### Heartland Highlights
-- **Strategic Route 66 Segments:** Rather than interstates, incorporate famous stretches of Route 66 through Oklahoma
-- **National Corvette Museum:** Consider a detour to Bowling Green, KY between Nashville and Huntsville
-- **US Space & Rocket Center:** End your journey with a visit in Huntsville to celebrate engineering excellence
-
-### Car Culture Destinations
-- **Hot Rod Hall of Fame Museum** in Rapid City
-- **Pioneer Auto Show** in Murdo, South Dakota
-- **Speedway Motors Museum of American Speed** in Lincoln, Nebraska (possible detour)
-- **Gateway Classic Cars** in Nashville
+### Filming Approach
+- Daily "cold start" sequences in different landscapes
+- Real-time problem solving of mechanical issues
+- Driving commentary through scenic areas
+- Before/after comparisons as the trip progresses
