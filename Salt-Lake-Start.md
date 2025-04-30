@@ -246,6 +246,7 @@ I found several shops in Salt Lake we can call if we run into trouble:
 - **Oklahoma Classic:** Stop at the U-Drop Inn in Shamrock, TX (inspiration for Ramone's in "Cars")
 - **Route 66 Museum:** Visit Oklahoma Route 66 Museum in Clinton for history of the Mother Road
 - **Roadside Americana:** Blue Whale of Catoosa near Tulsa
+- **Must-Stop:** POPS 66 in Arcadia - iconic gas station, restaurant and soda ranch with 700+ soda flavors and a 66-foot soda bottle sculpture (perfect for fueling up, snacks, and photos)
 - **Auto History:** Heart of Route 66 Auto Museum in Sapulpa, OK (special event: Model T driving experiences!)
 
 ### Oklahoma City Evening
